@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # 基本信息
 # ============================================================
 locale                   : "en-US"
-rtl                      : "false" # true, false (default) # turns direction of the page into right to left for RTL languages
+rtl                      : "true" # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "PCY's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
