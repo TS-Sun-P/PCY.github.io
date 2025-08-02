@@ -5,105 +5,105 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-# Site Settings
 # ============================================================
-# 基本信息
+# 主题与外观
 # ============================================================
-locale                   : "en-US"
-rtl                      : false # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "PCY's Homepage"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Chenyu Pan"
-description              : 
-url                      : "https://ts-sun-p.github.io/PCY.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : TS-Sun-P/PCY.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : # true, false (default)
-words_per_minute         : 200
-enable_copy_code_button  : true # true, false (default)
-copyright                : "Chenyu Pan" # "copyright" name, defaults to site.title
-copyright_url            : "https://ts-sun-p.github.io/PCY.github.io/" # "copyright" URL, defaults to site.url
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin  : "contrast"
 
+# ============================================================
+# 站点基本信息
+# ============================================================
+locale                 : "en-US"
+rtl                    : false
+title                  : "PCY's Homepage" # 关键：无空格
+title_separator        : "-"
+name                   : "Chenyu Pan"
+description            : "Personal website of Chenyu Pan."
+url                    : "https://ts-sun-p.github.io" # 无空格
+baseurl                : "/PCY.github.io" # 重要：添加 baseurl
+repository             : "TS-Sun-P/PCY.github.io" # 无空格，正确格式
+teaser                 : /assets/images/teaser.jpg
+logo                   : /assets/images/avatar.jpg
+breadcrumbs            : false
+words_per_minute       : 200
+enable_copy_code_button: true
+copyright              : "Chenyu Pan"
+copyright_url          : "https://ts-sun-p.github.io/PCY.github.io" # 无空格
 
 # ============================================================
 # 评论系统
 # ============================================================
 comments:
-  provider               : giscus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider: giscus
   giscus:
-    repo_id              : "R_kgDOPWq04A" # Shown during giscus setup at https://giscus.app
-    category_name        : "General" # Full text name of the category
-    category_id          : "DIC_kwDOPWq04M4Ctr7Q" # Shown during giscus setup at https://giscus.app
-    discussion_term      : "pathname" # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : 0 # '1' for enabled (default), '0' for disabled
-    theme                : "preferred_color_scheme" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
-    strict               : 0 # 1 for enabled, 0 for disabled (default)
-    input_position       : "bottom" # "top", "bottom" # The comment input box will be placed above or below the comments
-    emit_metadata        : 0 # 1 for enabled, 0 for disabled (default) # https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#imetadatamessage
-    lang                 : "zh-CN" # "en" (default)
-    lazy                 : false # true, false # Loading of the comments will be deferred until the user scrolls near the comments container.
+    repo_id            : "R_kgDOPWq04A"
+    category_name      : "General"
+    category_id        : "DIC_kwDOPWq04M4Ctr7Q"
+    discussion_term    : "pathname"
+    reactions_enabled  : 1
+    theme              : "preferred_color_scheme"
+    input_position     : "bottom"
+    lang               : "zh-CN"
+    lazy               : false
 
 # ============================================================
 # 搜索功能
 # ============================================================
-search                   : true # true, false (default)
-search_full_content      : true # true, false (default)
-search_provider          : lunr # lunr (default), algolia, google
+search: true
+search_full_content: true
+search_provider: lunr
 lunr:
-  search_within_pages    : true # true, false (default)
+  search_within_pages: true
 
-
-# Social Sharing
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+# ============================================================
+# SEO 与社交
+# ============================================================
+og_image: /assets/images/og-image.jpg
 social:
-  type                   : Person # Person or Organization (defaults to Person)
-  name                   : "TS" # If the user or organization name differs from the site's name
-  links: 
+  type: Person
+  name: "TS"
+  links:
     - https://github.com/TS-Sun-P
     - https://www.xiaohongshu.com/user/profile/65f1a659000000000500e334
 
-# Analytics
-analytics:
-  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+# Analytics (示例，填入你的ID)
+# analytics:
+#   provider: google-gtag
+#   google:
+#     tracking_id: G-XXXXXXXXXX
 
-
-# Site Author
+# ============================================================
+# 作者信息
+# ============================================================
 author:
-  name             : "Chenyu Pan（潘辰誉）"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Student"
-  location         : "Tianjin/Jincheng,China"
-  email            : panchenyu@tju.edu.cn
+  name: "Chenyu Pan（潘辰誉）"
+  avatar: /assets/images/avatar.jpg
+  bio: "Student"
+  location: "Tianjin/Jincheng, China"
+  email: panchenyu@tju.edu.cn
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "panchenyu@tju.edu.cn"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://ts-sun-p.github.io/PCY.github.io/"
+      url: "https://ts-sun-p.github.io/PCY.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/TS-Sun-P"
-# Site Footer
+
+# ============================================================
+# 页脚
+# ============================================================
 footer:
   links:
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url: "https://github.com/TS-Sun-P"
   since: "2025"
+
+# ============================================================
+# 其他配置
+# ============================================================
+timezone: Asia/Shanghai # 设置时区
 
 
 # Reading Files
