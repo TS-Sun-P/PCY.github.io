@@ -79,13 +79,10 @@ social:
 author:
   name: "Chenyu Pan（潘辰誉）"
   avatar: /assets/images/avatar.jpg
-  bio: "Student"
+  bio: "A student"
   location: "Tianjin/Jincheng, China"
   email: panchenyu@tju.edu.cn
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://ts-sun-p.github.io/PCY.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/TS-Sun-P"
