@@ -15,14 +15,14 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # ============================================================
 locale                   : "en-US"
 rtl                      : false # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "PCY 's Homepage"
+title                    : "PCY's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Chenyu Pan"
 description              : 
 url                      : "https://ts-sun-p.github.io/PCY.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/TS-Sun-P" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : TS-Sun-P/PCY.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -44,7 +44,7 @@ comments:
     category_id          : "DIC_kwDOPWq04M4Ctr7Q" # Shown during giscus setup at https://giscus.app
     discussion_term      : "pathname" # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : 0 # '1' for enabled (default), '0' for disabled
-    theme                : "preferred_color_scheme"# "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    theme                : "preferred_color_scheme" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
     strict               : 0 # 1 for enabled, 0 for disabled (default)
     input_position       : "bottom" # "top", "bottom" # The comment input box will be placed above or below the comments
     emit_metadata        : 0 # 1 for enabled, 0 for disabled (default) # https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#imetadatamessage
@@ -82,21 +82,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Chenyu Pan（潘辰誉）"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Stuendt"
-  location         : "Tianjin"
+  bio              : "Student"
+  location         : "Tianjin/Jincheng,China"
   email            : panchenyu@tju.edu.cn
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "panchenyu@tju.edu.cn"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://ts-sun-p.github.io/PCY.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/TS-Sun-P"
 # Site Footer
 footer:
   links:
