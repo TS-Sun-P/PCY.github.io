@@ -1,9 +1,11 @@
 ---
-permalink: /ch/
+permalink: /
 title: "潘辰誉"
 layout: single
 author_profile: true
 ---
+
+<!-- 语言切换按钮 -->
 <div style="text-align: right; margin-bottom: 1em;">
   <a href="/en/" style="font-size: 0.9em; text-decoration: none; padding: 5px 10px; background: #e9ecef; border-radius: 4px;">English</a>
 </div>
@@ -54,4 +56,4 @@ author_profile: true
 
 <div style="text-align: right; margin-top: 2em;">
   <a href="#about-me" style="font-size: 0.9em;">回顶部 ↑</a>
-</div>**
+</div>
