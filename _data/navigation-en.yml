@@ -1,13 +1,13 @@
 main:
   - title: "About Me"
-    url: /PCY.github.io/en/#about-me
+    url: /en/#about-me
   - title: "Education"
-    url: /PCY.github.io/en/#education
+    url: /en/#education
   - title: "Research Internship"
-    url: /PCY.github.io/en/#research
+    url: /en/#research
   - title: "Latest News"
-    url: /PCY.github.io/en/#news
+    url: /en/#news
   - title: "Publications"
-    url: /PCY.github.io/en/#publications
+    url: /en/#publications
   - title: "Awards"
-    url: /PCY.github.io/en/#awards
+    url: /en/#awards
