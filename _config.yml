@@ -103,7 +103,8 @@ footer:
 # 其他配置
 # ============================================================
 timezone: Asia/Shanghai # 设置时区
-
+# 是否启用不蒜子统计
+busuanzi: true
 
 # Reading Files
 include:
