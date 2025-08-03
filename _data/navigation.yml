@@ -1,10 +1,10 @@
 main:
   - title: "个人简介"
-    url: /PCY.github.io/#about-me
+    url: /#about-me
   - title: "教育背景"
-    url: /PCY.github.io/#education
+    url: /#education
   - title: "科研实习"
-    url: /PCY.github.io/#research
+    url: //#research
   - title: "最新消息"
     url: /PCY.github.io/#news
   - title: "出版物"
@@ -12,11 +12,11 @@ main:
   - title: "荣誉"
     url: /PCY.github.io/#awards  
   - title: "About Me"
-    url: /PCY.github.io/en/#about-me
+    url: /en/#about-me
   - title: "Education"
-    url: /PCY.github.io/en/#education
+    url: /en/#education
   - title: "Research Internship"
-    url: /PCY.github.io/en/#research
+    url: /en/#research
   - title: "Latest News"
     url: /PCY.github.io/en/#news
   - title: "Publications"
