@@ -3,8 +3,27 @@ permalink: /
 title: "潘辰誉"
 layout: single
 author_profile: true
-navigation: navigation
+# navigation: navigation
 ---
+<script>
+  // 根据当前页面路径动态更新导航栏
+  const currentPath = window.location.pathname;
+  const isEnglish = currentPath.includes('/en/');
+  const navigationItems = [
+    { title: '个人简介', url: '#about-me' },
+    { title: '教育背景', url: '#education' },
+    { title: '科研实习', url: '#research' },
+    { title: '最新消息', url: '#news' },
+    { title: '出版物', url: '#publications' },
+    { title: '荣誉', url: '#awards' },
+  ];
+
+  // 更新导航栏
+  const navLinks = document.querySelectorAll('.site-navigation .nav-link');
+  navLinks.forEach((link, index) => {
+    link.textContent = isEnglish ? navigationItems[index].title : navigationItems[index].title;
+  });
+</script>
 
 <!-- 语言切换按钮 -->
 <div style="display: flex; justify-content: flex-start; gap: 10px; margin: 0.2em 0 0.5em;">
