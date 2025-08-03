@@ -4,13 +4,13 @@ main:
   - title: "教育背景"
     url: /#education
   - title: "科研实习"
-    url: //#research
+    url: /#research
   - title: "最新消息"
-    url: /PCY.github.io/#news
+    url: /#news
   - title: "出版物"
-    url: /PCY.github.io/#publications
+    url: /#publications
   - title: "荣誉"
-    url: /PCY.github.io/#awards  
+    url: /#awards  
   - title: "About Me"
     url: /en/#about-me
   - title: "Education"
@@ -18,8 +18,8 @@ main:
   - title: "Research Internship"
     url: /en/#research
   - title: "Latest News"
-    url: /PCY.github.io/en/#news
+    url: /en/#news
   - title: "Publications"
-    url: /PCY.github.io/en/#publications
+    url: /en/#publications
   - title: "Awards"
-    url: /PCY.github.io/en/#awards
+    url: /en/#awards
