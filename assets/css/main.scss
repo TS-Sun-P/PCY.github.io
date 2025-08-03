@@ -7,3 +7,8 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// 启用所有锚点链接的平滑滚动
+html {
+  scroll-behavior: smooth;
+}
