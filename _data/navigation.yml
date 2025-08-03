@@ -10,12 +10,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "blog"
-    url:
-  - title: "plog"
-    url:
-  - title: "available resource"
-    url:
-  - title: "star site"
-    url:
+  - title: "About me"
+    url: /about-me/
+  - title: "Education"
+    url: /Education/
+  - title: "Publications"
+    url: /Publications/
+  - title: "Honors & Awards"
+    url: /Honors-and-Awards/
 

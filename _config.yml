@@ -15,16 +15,19 @@ minimal_mistakes_skin  : "contrast"
 # 站点基本信息
 # ============================================================
 locale                 : "en-US"
+languages:   
+  - "zh-CN"
+  - "en-US"     
 rtl                    : false
-title                  : "PCY's Homepage" # 关键：无空格
+title                  : "Welcome to PCY's Personal Homepage" # 关键：无空格
 title_separator        : "-"
 name                   : "Chenyu Pan"
 description            : "Personal website of Chenyu Pan."
-url                    : "https://ts-sun-p.github.io" # 无空格
+url                    : "https://ts-sun-p.github.io/PCY.github.io" # 无空格
 baseurl                : "/PCY.github.io" # 重要：添加 baseurl
 repository             : "TS-Sun-P/PCY.github.io" # 无空格，正确格式
-teaser                 : /assets/images/teaser.jpg
-logo                   : /assets/images/avatar.jpg
+teaser                 : /assets/images/TS.jpg
+logo                   : /assets/images/TS.jpg
 breadcrumbs            : false
 words_per_minute       : 200
 enable_copy_code_button: true
@@ -59,7 +62,7 @@ lunr:
 # ============================================================
 # SEO 与社交
 # ============================================================
-og_image: /assets/images/og-image.jpg
+og_image: /assets/images/pcy.jpg
 social:
   type: Person
   name: "TS"
@@ -78,7 +81,7 @@ social:
 # ============================================================
 author:
   name: "Chenyu Pan（潘辰誉）"
-  avatar: /assets/images/avatar.jpg
+  avatar: /assets/images/pcy.jpg
   bio: "A TJU student"
   location: "Tianjin/Jincheng, China"
   email: panchenyu@tju.edu.cn
