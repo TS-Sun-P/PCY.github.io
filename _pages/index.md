@@ -3,7 +3,7 @@ permalink: /
 title: "潘辰誉"
 layout: single
 author_profile: true
-# navigation: navigation
+navigation: navigation
 ---
 <script>
   // 根据当前页面路径动态更新导航栏

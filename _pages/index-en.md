@@ -4,7 +4,7 @@ title: "Chenyu Pan"
 layout: single
 author_profile: true
 # 指定使用 navigation-en.yml 作为导航数据
-# navigation: navigation-en
+navigation: navigation-en
 ---
 <script>
   // 根据当前页面路径动态更新导航栏
