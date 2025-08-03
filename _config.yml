@@ -84,11 +84,14 @@ author:
   bio: "A Tianjin University student"
   location: "Tianjin/Jincheng, China"
   email: panchenyu@tju.edu.cn
-  googlescholar: "https://scholar.google.com/citations?user=0Mco5t8AAAAJ&hl=zh-CN"
+  # googlescholar: "https://scholar.google.com/citations?user=0Mco5t8AAAAJ&hl=zh-CN"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/TS-Sun-P"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=0Mco5t8AAAAJ&hl=zh-CN"
 
 
 # ============================================================
