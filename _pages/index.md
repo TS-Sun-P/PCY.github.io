@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "潘辰誉"
+title: "潘辰誉(Chenyu Pan)"
 layout: single
 author_profile: true
 sidebar:
