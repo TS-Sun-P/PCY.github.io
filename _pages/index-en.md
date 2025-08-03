@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <!-- 语言切换按钮 -->
-<div style="display: flex; justify-content: flex-end; gap: 10px; margin: 0.5em 0;">
+<div style="display: flex; justify-content: flex-start; gap: 10px; margin: 0.2em 0 0.5em;">
   <a href="/PCY.github.io/" style="font-size: 0.9em; text-decoration: none; padding: 5px 10px; background: #e9ecef; border-radius: 4px;">中文版</a>
   <a href="/PCY.github.io/en/" style="font-size: 0.9em; text-decoration: none; padding: 5px 10px; background: #e9ecef; border-radius: 4px;">English</a>
 </div>
