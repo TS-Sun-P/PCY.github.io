@@ -1,37 +1,50 @@
 ---
 permalink: /
-title: "Chenyu Pan"
+title: "PCY's Personal Homepage"
 layout: single
 author_profile: true
 ---
 
-## <span id="home">首页</span>
+<!-- 索引导航栏 -->
+<div style="text-align: center; margin-bottom: 20px;">
+  <a href="#home">🏠 首页</a> |
+  <a href="#about-me">👨‍🎓 关于我</a> |
+  <a href="#education">📚 教育背景</a> |
+  <a href="#research">🔬 科研实习</a> |
+  <a href="#publications">📝 出版物</a> |
+  <a href="#awards">🏆 荣誉</a>
+</div>
 
-你好，欢迎来到我的主页。
+<!-- 页面内容 -->
+
+## <span id="home">🏠 首页</span>
+
+欢迎访问我的个人主页！
 
 ---
 
-## <span id="about-me">个人简介</span>
+## <span id="about-me">👨‍🎓 关于我</span>
 
 我在天津大学智能与计算学部获得计算机科学与技术学士学位 ([天津大学智能与计算学部](https://cic.tju.edu.cn/))。目前，我是天津大学智能与计算学部的准一年级硕士生。  
 我的研究兴趣主要为 **无线感知**。
 
 ---
 
-### 🎓 教育背景
+## <span id="education">📚 教育背景</span>
 
 - **2025–2028（预计）**，天津大学，电子信息，硕士，导师：佟鑫宇  
 - **2021–2025**，天津大学，计算机科学与技术，学士
 
 ---
 
-### 💻 科研实习
+## <span id="research">🔬 科研实习</span>
 
 - **2022–2025**，天津市先进网络重点实验室（TANKlab），科研助手  
+  参与、辅助 *Wi-Fi* 无线感知相关课题研究。
 
 ---
 
-### 📝 出版物
+## <span id="publications">📝 出版物</span>
 
 1. **RespEnh: A Technique for Enhancing Respiration Sensing in Interference Scenarios With Wi-Fi Signal**  
    Jingjing Fan, **Chenyu Pan**, Guanhua Zhao, Xinyu Tong*, Keqiu Li, Shisheng Huang  
@@ -40,7 +53,7 @@ author_profile: true
 
 ---
 
-### 🏅 荣誉
+## <span id="awards">🏆 荣誉</span>
 
 - **2025.07** 天津大学优秀毕业生
 - **2024.12** 天津大学三好学生

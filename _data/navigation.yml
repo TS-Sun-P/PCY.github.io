@@ -1,5 +1,4 @@
 # main links
-main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -10,8 +9,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "About me"
-    url: about/
+main:
+  - title: "个人简介"
+    url: /#about-me
   # - title: "Education"
   #   url: /Education/
   # - title: "Publications"
