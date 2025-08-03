@@ -3,7 +3,7 @@ permalink: /
 title: "潘辰誉"
 layout: single
 author_profile: true
-navigation: navigation
+nav: [navigation]
 ---
 
 
