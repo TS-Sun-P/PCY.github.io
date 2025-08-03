@@ -3,6 +3,7 @@ permalink: /
 title: "潘辰誉"
 layout: single
 author_profile: true
+navigation: navigation
 ---
 
 <!-- 语言切换按钮 -->
