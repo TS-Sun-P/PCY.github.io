@@ -1,6 +1,7 @@
 ---
-permalink: /about-me/
-title: "关于我"
+permalink: /
+title: "Chenyu Pan"
+excerpt: "About me"
 layout: single
 author_profile: true
 ---
@@ -22,7 +23,7 @@ author_profile: true
 ## 💻 科研实习
 
 - **2022–2025**，天津市先进网络重点实验室（TANKlab），科研助手  
-  参与、辅助*Wi-Fi*无线感知相关研究课题。
+  参与、辅助*Wi-Fi*无线感知相关课题研究。
 
 ---
 
