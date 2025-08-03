@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /_pages/
 title: "Chenyu Pan"
 excerpt: "About me"
 layout: single
