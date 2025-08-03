@@ -201,6 +201,11 @@ pagination:
     after: 2
 
 
+# header_pages:
+#   - about.md
+
+
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
