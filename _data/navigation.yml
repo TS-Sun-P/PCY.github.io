@@ -1,31 +1,13 @@
-# main links
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
 main:
   - title: "个人简介"
-    url: /#about-me
+    url: /PCY.github.io/#about-me
   - title: "教育背景"
-    url: /#education
+    url: /PCY.github.io/#education
   - title: "科研实习"
-    url: /#research
+    url: /PCY.github.io/#research
   - title: "最新消息"
-    url: /#news
+    url: /PCY.github.io/#news
   - title: "出版物"
-    url: /#publications
+    url: /PCY.github.io/#publications
   - title: "荣誉"
-    url: /#awards  
-  # - title: "Education"
-  #   url: /Education/
-  # - title: "Publications"
-  #   url: /Publications/
-  # - title: "Honors & Awards"
-  #   url: /Honors-and-Awards/
-
+    url: /PCY.github.io/#awards  
