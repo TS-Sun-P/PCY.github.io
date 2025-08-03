@@ -53,11 +53,11 @@ comments:
 # ============================================================
 # 搜索功能
 # ============================================================
-search: true
-search_full_content: true
-search_provider: lunr
-lunr:
-  search_within_pages: true
+# search: true
+# search_full_content: true
+# search_provider: lunr
+# lunr:
+#   search_within_pages: true
 
 # ============================================================
 # SEO 与社交
