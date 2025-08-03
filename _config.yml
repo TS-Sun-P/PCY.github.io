@@ -62,12 +62,12 @@ lunr:
 # ============================================================
 # SEO 与社交
 # ============================================================
-og_image: /assets/images/pcy.jpg
-social:
-  type: Person
-  name: "TS"
-  links:
-    - https://github.com/TS-Sun-P
+# og_image: /assets/images/pcy.jpg
+# social:
+#   type: Person
+#   name: "TS"
+#   links:
+#     - https://github.com/TS-Sun-P
 
 # Analytics (示例，填入你的ID)
 # analytics:
