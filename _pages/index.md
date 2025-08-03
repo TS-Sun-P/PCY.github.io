@@ -5,32 +5,28 @@ layout: single
 author_profile: true
 ---
 
-<!-- 索引导航栏 -->
-<div style="text-align: center; margin-bottom: 20px;">
-  <a href="#home">🏠 首页</a> |
-  <a href="#about-me">👨‍🎓 关于我</a> |
-  <a href="#education">📚 教育背景</a> |
-  <a href="#research">🔬 科研实习</a> |
-  <a href="#publications">📝 出版物</a> |
-  <a href="#awards">🏆 荣誉</a>
-</div>
+<!-- 导航栏 -->
+<nav>
+  <ul>
+    <li><a href="#about-me"><i class="fas fa-id-card"></i> 个人简介</a></li>
+    <li><a href="#education"><i class="fas fa-graduation-cap"></i> 教育背景</a></li>
+    <li><a href="#research"><i class="fas fa-flask"></i> 科研实习</a></li>
+    <li><a href="#publications"><i class="fas fa-book-open"></i> 出版物</a></li>
+    <li><a href="#awards"><i class="fas fa-trophy"></i> 荣誉</a></li>
+  </ul>
+</nav>
 
 <!-- 页面内容 -->
 
-## <span id="home">🏠 首页</span>
 
-欢迎访问我的个人主页！
-
----
-
-## <span id="about-me">👨‍🎓 关于我</span>
+## <span id="about-me"></span>
 
 我在天津大学智能与计算学部获得计算机科学与技术学士学位 ([天津大学智能与计算学部](https://cic.tju.edu.cn/))。目前，我是天津大学智能与计算学部的准一年级硕士生。  
 我的研究兴趣主要为 **无线感知**。
 
 ---
 
-## <span id="education">📚 教育背景</span>
+## <span id="education">🎓 教育背景</span>
 
 - **2025–2028（预计）**，天津大学，电子信息，硕士，导师：佟鑫宇  
 - **2021–2025**，天津大学，计算机科学与技术，学士
