@@ -12,11 +12,11 @@ main:
   - title: "荣誉"
     url: /PCY.github.io/#awards  
   - title: "About Me"
-    url: /PCY.github.io/en/#about-me
+    url: /en/#about-me
   - title: "Education"
-    url: /PCY.github.io/en/#education
+    url: /en/#education
   - title: "Research Internship"
-    url: /PCY.github.io/en/#research
+    url: /en/#research
   - title: "Latest News"
     url: /PCY.github.io/en/#news
   - title: "Publications"
