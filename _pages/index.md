@@ -61,3 +61,17 @@ sidebar:
 <div style="text-align: right; margin-top: 2em;">
   <a href="#about-me" style="font-size: 0.9em;">回顶部 ↑</a>
 </div>
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<div class="busuanzi-counter-zh">
+  <span id="busuanzi_container_page_pv">
+    📖 本页阅读量 <span id="busuanzi_value_page_pv"></span> 次
+  </span>
+  <span id="busuanzi_container_site_pv">
+    🚀 站点总访问量 <span id="busuanzi_value_site_pv"></span> 次
+  </span>
+  <span id="busuanzi_container_site_uv">
+    👥 访客人数 <span id="busuanzi_value_site_uv"></span> 人
+  </span>
+</div>

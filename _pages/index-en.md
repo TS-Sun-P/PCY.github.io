@@ -59,3 +59,17 @@ My research interests lie in **Wireless Sensing**, particularly **Wi-Fi Sensing*
 <div style="text-align: right; margin-top: 2em;">
   <a href="#about-me" style="font-size: 0.9em;">Back to Top ↑</a>
 </div>
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<div class="busuanzi-counter-en">
+  <span id="busuanzi_container_page_pv">
+    📖 Page Views: <span id="busuanzi_value_page_pv"></span>
+  </span>
+  <span id="busuanzi_container_site_pv">
+    🚀 Total Visits: <span id="busuanzi_value_site_pv"></span>
+  </span>
+  <span id="busuanzi_container_site_uv">
+    👥 Unique Visitors: <span id="busuanzi_value_site_uv"></span>
+  </span>
+</div>
