@@ -12,6 +12,16 @@
 main:
   - title: "个人简介"
     url: /#about-me
+  - title: "教育背景"
+    url: /#education
+  - title: "科研实习"
+    url: /#research
+  - title: "最新消息"
+    url: /#news
+  - title: "出版物"
+    url: /#publications
+  - title: "荣誉"
+    url: /#awards  
   # - title: "Education"
   #   url: /Education/
   # - title: "Publications"
