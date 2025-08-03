@@ -113,7 +113,7 @@ body {
 
 // 放大侧边栏作者信息的字体
 .sidebar .author__name {
-  font-size: 2.0rem; // 姓名字体
+  font-size: 1.7rem; // 姓名字体
   font-weight: bold;
 }
 
@@ -131,7 +131,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   border-radius: 70%; // 可选：将头像变为圆形
-  width: 200px; // 可选：设置头像大小
-  height: 200px;
+  width: 250px; // 可选：设置头像大小
+  height: 250px;
   object-fit: cover;
 }
