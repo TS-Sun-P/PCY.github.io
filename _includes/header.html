@@ -1,0 +1,7 @@
+{%- comment -%}
+  Override to support multilingual navigation.
+{%- endcomment -%}
+
+{% assign nav_key = page.navigation | default: 'navigation' %}
+{% assign nav_items = site.data[nav_key].main %}
+{% include nav.html nav_items=nav_items %}
