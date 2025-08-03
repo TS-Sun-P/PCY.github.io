@@ -43,7 +43,7 @@ sidebar:
 ## <span id="publications">📝 出版物</span>
 1. **RespEnh: A Technique for Enhancing Respiration Sensing in Interference Scenarios With Wi-Fi Signal**  
    Jingjing Fan, **Chenyu Pan**, Guanhua Zhao, Xinyu Tong\*, Keqiu Li, Shisheng Huang  
-   *IEEE Internet of Things Journal* *(IOTJ)*, 2024 (<font color="blue">SCI-Q2</font>) 📄[下载论文(PDF)](/PCY.github.io/files/RespEnh_A_Technique_for_Enhancing_Respiration_Sensing_in_Interference_Scenarios_With_Wi-Fi_Signal.pdf)
+   *IEEE Internet of Things Journal(IOTJ)*, 2024 (<font color="blue">SCI-Q2</font>) 📄[下载论文(PDF)](/PCY.github.io/files/RespEnh_A_Technique_for_Enhancing_Respiration_Sensing_in_Interference_Scenarios_With_Wi-Fi_Signal.pdf)
 
 
 <!-- 荣誉 -->
