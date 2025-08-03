@@ -13,27 +13,100 @@ html {
   scroll-behavior: smooth;
 }
 
-// 导航栏样式
-nav ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+/* 导航栏样式 */
+.navbar {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
+  padding: 10px 20px;
+
+  a {
+    text-decoration: none;
+    color: #333; /* 链接颜色 */
+    font-size: 1rem; /* 字体大小 */
+    margin: 0 10px; /* 链接之间的间距 */
+    transition: color 0.3s ease; /* 鼠标悬停时的颜色变化 */
+
+    &:hover {
+      color: #007bff; /* 鼠标悬停时的链接颜色 */
+    }
+  }
+
+  @media (max-width: 768px) {
+    flex-direction: column; /* 小屏幕下垂直排列 */
+    align-items: flex-start; /* 左对齐 */
+  }
 }
 
-nav li {
-  margin: 0 10px;
+/* 原生导航栏样式 */
+.main-navigation {
+  ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    li {
+      margin: 0 10px;
+    }
+
+    a {
+      text-decoration: none;
+      color: #333;
+      font-size: 1rem;
+      transition: color 0.3s ease;
+
+      &:hover {
+        color: #007bff;
+      }
+    }
+  }
+
+  @media (max-width: 768px) {
+    ul {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
 }
 
-// nav a {
-//   text-decoration: none;
-//   color: #333; // 设置导航链接的颜色
-//   font-weight: normal; // 不加粗
-//   font-size: 1.2rem; // 设置字体大小
-// }
+/* 页面整体样式 */
+body {
+  font-family: 'Arial', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
 
-// nav a:hover {
-//   text-decoration: underline; // 鼠标悬停时显示下划线
-// }
+@media (max-width: 768px) {
+  body {
+    font-size: 14px; /* 小屏幕下缩小字体 */
+  }
+
+  .content {
+    padding: 20px; /* 调整内边距 */
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 12px; /* 更小屏幕进一步缩小字体 */
+  }
+
+  .content {
+    padding: 10px; /* 进一步调整内边距 */
+  }
+}
+
+.content {
+  max-width: 800px; /* 限制内容宽度 */
+  margin: 0 auto; /* 水平居中 */
+  padding: 20px;
+
+  @media (max-width: 768px) {
+    max-width: 90%; /* 小屏幕下更宽 */
+  }
+
+  @media (max-width: 480px) {
+    max-width: 100%; /* 手机屏幕全屏显示 */
+  }
+}

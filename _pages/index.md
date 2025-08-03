@@ -15,13 +15,15 @@ author_profile: true
     <li><a href="#awards"><i class="fas fa-trophy"></i> 荣誉</a></li>
   </ul>
 </nav> -->
-
+<div class="content">
 <!-- 页面内容 -->
 <span id="about-me"></span> 
 我在天津大学智能与计算学部获得计算机科学与技术学士学位 ([天津大学智能与计算学部](https://cic.tju.edu.cn/))。目前，我是天津大学智能与计算学部的准一年级硕士生。  
 我的研究兴趣主要为 **无线感知**。
 
 <!-- --- -->
+
+
 
 ## <span id="education">🎓 教育背景</span>
 - **2025–2028（预计）**，天津大学，电子信息，硕士，导师：佟鑫宇  
@@ -61,4 +63,5 @@ author_profile: true
 
 <div style="text-align: right; margin-top: 2em;">
   <a href="#home" style="font-size: 0.9em;">回到顶部 ↑</a>
+</div>
 </div>
