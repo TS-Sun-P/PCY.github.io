@@ -10,10 +10,6 @@
   # - title: "Sitemap"
   #   url: /sitemap/
 main:
-  - title: "English"
-    url: /en/
-  - title: "中文"
-    url: /
   - title: "个人简介"
     url: /#about-me
   - title: "教育背景"
