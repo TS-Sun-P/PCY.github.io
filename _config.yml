@@ -24,7 +24,7 @@ title_separator        : "-"
 name                   : "Chenyu Pan"
 description            : "Personal website of Chenyu Pan."
 url                    : "https://ts-sun-p.github.io/PCY.github.io" # 无空格
-baseurl                : "" # 重要：添加 baseurl
+baseurl                : "/PCY.github.io" # 重要：添加 baseurl
 repository             : "TS-Sun-P/PCY.github.io" # 无空格，正确格式
 # teaser                 : /assets/images/TS.jpg
 # logo                   : /assets/images/TS.jpg
