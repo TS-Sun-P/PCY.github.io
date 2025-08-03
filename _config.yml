@@ -68,7 +68,6 @@ social:
   name: "TS"
   links:
     - https://github.com/TS-Sun-P
-    - https://www.xiaohongshu.com/user/profile/65f1a659000000000500e334
 
 # Analytics (示例，填入你的ID)
 # analytics:
@@ -82,7 +81,7 @@ social:
 author:
   name: "Chenyu Pan（潘辰誉）"
   avatar: /assets/images/pcy.jpg
-  bio: "A TJU student"
+  bio: "A student at TJU(Tianjin University)"
   location: "Tianjin/Jincheng, China"
   email: panchenyu@tju.edu.cn
   links:
