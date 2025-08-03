@@ -6,14 +6,15 @@ author_profile: true
 ---
 
 <!-- 语言切换按钮 -->
-<div style="text-align: right; margin-bottom: 1em;">
-  <a href="/en/" style="font-size: 0.9em; text-decoration: none; padding: 5px 10px; background: #e9ecef; border-radius: 4px;">English</a>
+<div style="display: flex; justify-content: flex-end; gap: 10px; margin: 0.5em 0;">
+  <a href="/PCY.github.io/" style="font-size: 0.9em; text-decoration: none; padding: 5px 10px; background: #e9ecef; border-radius: 4px;">中文版</a>
+  <a href="/PCY.github.io/en/" style="font-size: 0.9em; text-decoration: none; padding: 5px 10px; background: #e9ecef; border-radius: 4px;">English</a>
 </div>
 
 <!-- 个人简介 -->
 <span id="about-me"></span>
 我在[天津大学智能与计算学部](https://cic.tju.edu.cn/)获得计算机科学与技术学士学位。目前，我是天津大学智能与计算学部的准一年级硕士生。  
-我的研究兴趣主要为 **无线感知**，尤其是**Wi-Fi感知**。目前在[天津市先进网络重点实验室(TANKLab)](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111)学习工作，有幸接受[佟鑫宇英才副教授](https://cic.tju.edu.cn/faculty/tongxinyu/index.html)的指导。
+我的研究兴趣主要为 **无线感知**，尤其是 **Wi-Fi感知**。目前在[天津市先进网络重点实验室(TANKLab)](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111)学习工作，有幸受到[佟鑫宇英才副教授](https://cic.tju.edu.cn/faculty/tongxinyu/index.html)的指导。
 
 
 
