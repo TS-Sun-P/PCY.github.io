@@ -44,7 +44,7 @@ My research interests lie in **Wireless Sensing**, particularly **Wi-Fi Sensing*
 
 
 
-## <span id="awards">🏆 Awards</span>
+## <span id="awards">🏆 Honors & Awards</span>
 
 - **Jul 2025** Outstanding Graduate of Tianjin University
 - **Dec 2024** Merit Student of Tianjin University
@@ -67,9 +67,9 @@ My research interests lie in **Wireless Sensing**, particularly **Wi-Fi Sensing*
     📖 Page Views: <span id="busuanzi_value_page_pv"></span>
   </span>
   <span id="busuanzi_container_site_pv">
-    🚀 Total Visits: <span id="busuanzi_value_site_pv"></span>
+      🚀 Total Visits: <span id="busuanzi_value_site_pv"></span>
   </span>
   <span id="busuanzi_container_site_uv">
-    👥 Unique Visitors: <span id="busuanzi_value_site_uv"></span>
+      👥 Unique Visitors: <span id="busuanzi_value_site_uv"></span>
   </span>
 </div>

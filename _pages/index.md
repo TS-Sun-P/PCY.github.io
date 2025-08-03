@@ -47,7 +47,7 @@ sidebar:
 
 
 <!-- 荣誉 -->
-## <span id="awards">🏆 荣誉</span>
+## <span id="awards">🏆 荣誉与奖项</span>
 - **2025.07** 天津大学优秀毕业生
 - **2024.12** 天津大学三好学生
 - **2024.12** 天津大学第二十五期学生科技英才奖
@@ -69,9 +69,9 @@ sidebar:
     📖 本页阅读量 <span id="busuanzi_value_page_pv"></span> 次
   </span>
   <span id="busuanzi_container_site_pv">
-    🚀 站点总访问量 <span id="busuanzi_value_site_pv"></span> 次
+      🚀 站点总访问量 <span id="busuanzi_value_site_pv"></span> 次
   </span>
   <span id="busuanzi_container_site_uv">
-    👥 访客人数 <span id="busuanzi_value_site_uv"></span> 人
+      👥 访客人数 <span id="busuanzi_value_site_uv"></span> 人
   </span>
 </div>

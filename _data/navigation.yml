@@ -9,7 +9,7 @@ navigation:
     url: /#news
   - title: "出版物"
     url: /#publications
-  - title: "荣誉"
+  - title: "荣誉与奖项"
     url: /#awards  
 navigation-en:
   - title: "About Me"
@@ -22,5 +22,5 @@ navigation-en:
     url: /en/#news
   - title: "Publications"
     url: /en/#publications
-  - title: "Awards"
+  - title: "Honors & Awards"
     url: /en/#awards
