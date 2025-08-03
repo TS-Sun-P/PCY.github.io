@@ -260,16 +260,34 @@ compress_html:
     envs: development
 
 
-# Defaults
+# # Defaults
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: # true
+#       share: true
+#       related: true
+
+
+# 默认设置
 defaults:
-  # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+      navigation: navigation
+  - scope:
+      path: "en"
+      type: pages  
+    values:
+      layout: single
+      author_profile: true
+      navigation: navigation-en

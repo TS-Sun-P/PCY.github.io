@@ -1,4 +1,4 @@
-main:
+navigation:
   - title: "个人简介"
     url: /#about-me
   - title: "教育背景"
@@ -11,6 +11,7 @@ main:
     url: /#publications
   - title: "荣誉"
     url: /#awards  
+navigation-en:
   - title: "About Me"
     url: /en/#about-me
   - title: "Education"
