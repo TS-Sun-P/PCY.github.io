@@ -10,12 +10,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "About me"
-    url: /_pages/about-me/
-  - title: "Education"
-    url: /Education/
-  - title: "Publications"
-    url: /Publications/
-  - title: "Honors & Awards"
-    url: /Honors-and-Awards/
+  # - title: "About me"
+  #   url: /_pages/about-me/
+  # - title: "Education"
+  #   url: /Education/
+  # - title: "Publications"
+  #   url: /Publications/
+  # - title: "Honors & Awards"
+  #   url: /Honors-and-Awards/
 
