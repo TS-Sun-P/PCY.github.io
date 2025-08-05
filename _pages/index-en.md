@@ -60,7 +60,7 @@ My research interests lie in **Wireless Sensing**, particularly **Wi-Fi Sensing*
   <a href="#about-me" style="font-size: 0.9em;">Back to Top ↑</a>
 </div>
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<!-- <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> -->
 
 <!-- <div class="busuanzi-counter-en">
   <span id="busuanzi_container_page_pv">
@@ -73,6 +73,9 @@ My research interests lie in **Wireless Sensing**, particularly **Wi-Fi Sensing*
       👥 Unique Visitors: <span id="busuanzi_value_site_uv"></span>
   </span>
 </div> -->
+
+<!-- 不蒜子统计脚本 v3.6.9 -->
+<script src="//api.busuanzi.cc/static/3.6.9/busuanzi.min.js" defer></script>
 
 <!-- 英文统计 -->
 <div class="busuanzi-container en" id="busuanzi-container-en" style="display: none; font-size: 14px; color: #555; margin: 1em 0; line-height: 1.8;">
