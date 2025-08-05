@@ -60,32 +60,19 @@ My research interests lie in **Wireless Sensing**, particularly **Wi-Fi Sensing*
   <a href="#about-me" style="font-size: 0.9em;">Back to Top ↑</a>
 </div>
 
-<!-- <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> -->
 
-<!-- <div class="busuanzi-counter-en">
-  <span id="busuanzi_container_page_pv">
-    📖 Page Views: <span id="busuanzi_value_page_pv"></span>
-  </span>
-  <span id="busuanzi_container_site_pv">
-      🚀 Total Visits: <span id="busuanzi_value_site_pv"></span>
-  </span>
-  <span id="busuanzi_container_site_uv">
-      👥 Unique Visitors: <span id="busuanzi_value_site_uv"></span>
-  </span>
-</div> -->
-
-<!-- 不蒜子统计脚本 v3.6.9 -->
+<!-- 不蒜子统计脚本 -->
 <script src="//api.busuanzi.cc/static/3.6.9/busuanzi.min.js" defer></script>
 
-<!-- 英文统计 -->
-<div class="busuanzi-container en" id="busuanzi-container-en" style="display: none; font-size: 14px; color: #555; margin: 1em 0; line-height: 1.8;">
+<!-- 英文统计信息 -->
+<div class="busuanzi-container en" style="font-size: 14px; color: #555; margin: 1em 0; line-height: 1.8;">
   <p>📖 Page Views: <span id="busuanzi_page_pv">Loading...</span></p>
   <p>👥 Page Visitors: <span id="busuanzi_page_uv">Loading...</span></p>
   <p>🚀 Total Site Visits: <span id="busuanzi_site_pv">Loading...</span></p>
   <p>🌐 Total Unique Visitors: <span id="busuanzi_site_uv">Loading...</span></p>
 </div>
 
-
+<!-- 样式（可选，与中文版一致） -->
 <style>
 .busuanzi-container {
   background: #f9f9f9;
@@ -96,7 +83,7 @@ My research interests lie in **Wireless Sensing**, particularly **Wi-Fi Sensing*
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
 }
 
-.busuanzi-container span[ id^="busuanzi_" ] {
+.busuanzi-container span[id^="busuanzi_"] {
   font-weight: 600;
   color: #e74c3c;
 }
