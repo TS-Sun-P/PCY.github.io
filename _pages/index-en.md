@@ -62,7 +62,7 @@ My research interests lie in **Wireless Sensing**, particularly **Wi-Fi Sensing*
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-<div class="busuanzi-counter-en">
+<!-- <div class="busuanzi-counter-en">
   <span id="busuanzi_container_page_pv">
     📖 Page Views: <span id="busuanzi_value_page_pv"></span>
   </span>
@@ -72,4 +72,29 @@ My research interests lie in **Wireless Sensing**, particularly **Wi-Fi Sensing*
   <span id="busuanzi_container_site_uv">
       👥 Unique Visitors: <span id="busuanzi_value_site_uv"></span>
   </span>
+</div> -->
+
+<!-- 英文统计 -->
+<div class="busuanzi-container en" id="busuanzi-container-en" style="display: none; font-size: 14px; color: #555; margin: 1em 0; line-height: 1.8;">
+  <p>📖 Page Views: <span id="busuanzi_page_pv">Loading...</span></p>
+  <p>👥 Page Visitors: <span id="busuanzi_page_uv">Loading...</span></p>
+  <p>🚀 Total Site Visits: <span id="busuanzi_site_pv">Loading...</span></p>
+  <p>🌐 Total Unique Visitors: <span id="busuanzi_site_uv">Loading...</span></p>
 </div>
+
+
+<style>
+.busuanzi-container {
+  background: #f9f9f9;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  padding: 12px 16px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.busuanzi-container span[ id^="busuanzi_" ] {
+  font-weight: 600;
+  color: #e74c3c;
+}
+</style>

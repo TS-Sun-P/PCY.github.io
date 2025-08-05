@@ -64,7 +64,7 @@ sidebar:
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-<div class="busuanzi-counter-zh">
+<!-- <div class="busuanzi-counter-zh">
   <span id="busuanzi_container_page_pv">
     📖 本页阅读量 <span id="busuanzi_value_page_pv"></span> 次
   </span>
@@ -74,4 +74,32 @@ sidebar:
   <span id="busuanzi_container_site_uv">
       👥 访客人数 <span id="busuanzi_value_site_uv"></span> 人
   </span>
+</div> -->
+
+<!-- 不蒜子统计脚本 v3.6.9 -->
+<script src="//api.busuanzi.cc/static/3.6.9/busuanzi.min.js" defer></script>
+
+<!-- 中文统计 -->
+<div class="busuanzi-container zh" id="busuanzi-container-zh" style="display: block; font-size: 14px; color: #555; margin: 1em 0; line-height: 1.8;">
+  <p>📖 本页阅读量：<span id="busuanzi_page_pv">加载中...</span> 次</p>
+  <p>👥 本页访客数：<span id="busuanzi_page_uv">加载中...</span> 人</p>
+  <p>🚀 站点总访问量：<span id="busuanzi_site_pv">加载中...</span> 次</p>
+  <p>🌐 站点访客总数：<span id="busuanzi_site_uv">加载中...</span> 人</p>
 </div>
+
+
+<style>
+.busuanzi-container {
+  background: #f9f9f9;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  padding: 12px 16px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.busuanzi-container span[ id^="busuanzi_" ] {
+  font-weight: 600;
+  color: #e74c3c;
+}
+</style>
