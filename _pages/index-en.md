@@ -61,18 +61,19 @@ My research interests lie in **Wireless Sensing**, particularly **Wi-Fi Sensing*
 </div>
 
 
-<!-- 不蒜子统计脚本 -->
-<script src="//api.busuanzi.cc/static/3.6.9/busuanzi.min.js" defer></script>
+<!-- 不蒜子统计脚本
+<script src="//api.busuanzi.cc/static/3.6.9/busuanzi.min.js" defer></script> -->
 
 <!-- 英文统计信息 -->
-<div class="busuanzi-container en" style="font-size: 14px; color: #555; margin: 1em 0; line-height: 1.8;">
+<!-- <div class="busuanzi-container en" style="font-size: 14px; color: #555; margin: 1em 0; line-height: 1.8;">
   <p>📖 Page Views: <span id="busuanzi_page_pv">Loading...</span></p>
   <p>👥 Page Visitors: <span id="busuanzi_page_uv">Loading...</span></p>
   <p>🚀 Total Site Visits: <span id="busuanzi_site_pv">Loading...</span></p>
   <p>🌐 Total Unique Visitors: <span id="busuanzi_site_uv">Loading...</span></p>
-</div>
+</div> -->
 
 <!-- 样式（可选，与中文版一致） -->
+<!-- 
 <style>
 .busuanzi-container {
   background: #f9f9f9;
@@ -87,4 +88,4 @@ My research interests lie in **Wireless Sensing**, particularly **Wi-Fi Sensing*
   font-weight: 600;
   color: #e74c3c;
 }
-</style>
+</style> -->

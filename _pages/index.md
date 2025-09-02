@@ -76,18 +76,21 @@ sidebar:
   </span>
 </div> -->
 
-<!-- 不蒜子统计脚本 -->
-<script src="//api.busuanzi.cc/static/3.6.9/busuanzi.min.js" defer></script>
+
+<!-- 
+不蒜子统计脚本
+<script src="//api.busuanzi.cc/static/3.6.9/busuanzi.min.js" defer></script> -->
 
 <!-- 中文统计信息 -->
-<div class="busuanzi-container zh" style="font-size: 14px; color: #555; margin: 1em 0; line-height: 1.8;">
+<!-- <div class="busuanzi-container zh" style="font-size: 14px; color: #555; margin: 1em 0; line-height: 1.8;">
   <p>📖 本页阅读量：<span id="busuanzi_page_pv">加载中...</span> 次</p>
   <p>👥 本页访客数：<span id="busuanzi_page_uv">加载中...</span> 人</p>
   <p>🚀 站点总访问量：<span id="busuanzi_site_pv">加载中...</span> 次</p>
   <p>🌐 站点访客总数：<span id="busuanzi_site_uv">加载中...</span> 人</p>
-</div>
+</div> -->
 
 <!-- 样式 -->
+<!-- 
 <style>
 .busuanzi-container {
   background: #f9f9f9;
@@ -102,4 +105,4 @@ sidebar:
   font-weight: 600;
   color: #e74c3c;
 }
-</style>
+</style> -->
