@@ -16,7 +16,7 @@ sidebar:
 
 <!-- 个人简介 -->
 <span id="about-me"></span>
-我在[天津大学智能与计算学部](https://cic.tju.edu.cn/)获得计算机科学与技术学士学位。目前，我是天津大学智能与计算学部的准一年级硕士生。  
+我在[天津大学智能与计算学部](https://cic.tju.edu.cn/)获得计算机科学与技术学士学位。目前，我是天津大学智能与计算学部的一年级硕士生。  
 我的研究兴趣主要为 **无线感知**，尤其是 **Wi-Fi感知**。目前在[天津市先进网络技术与应用重点实验室(TANKLab)](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111)学习工作，有幸受到[佟鑫宇英才副教授](https://cic.tju.edu.cn/faculty/tongxinyu/index.html)的指导。
 
 
