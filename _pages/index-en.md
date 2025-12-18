@@ -16,7 +16,7 @@ sidebar:
  <span id="about-me"></span>
 
 I earned my Bachelor's degree in Computer Science and Technology from the College of Intelligence and Computing, Tianjin University ([TJU](https://cic.tju.edu.cn/)). Currently, I am a first-year master's student at the same college.  
-My research interests lie in **Wireless Sensing**, particularly **Wi-Fi Sensing**. I am currently studying and working at the [Tianjin Key Laboratory of Advanced Networking (TANKLab)](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111), under the guidance of Associate Professor [Xinyu Tong](https://cic.tju.edu.cn/faculty/tongxinyu/index.html).
+My research interests lie in **Wireless Sensing**, particularly **Wi-Fi Sensing**. I am currently studying and working at the [Tianjin Key Laboratory of Advanced Networking (TANKLab)](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=12111), under the guidance of Associate Professor [Xinyu Tong](https://www.tjutxy.com/).
 
 
 ## <span id="education">🎓 Education</span>
